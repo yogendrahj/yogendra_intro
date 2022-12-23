@@ -9,4 +9,4 @@ Started as a Linux Admin, soon got an exposure to AWS platform and been a great 
 
 AWS Community Builder, SA Pro and SAA Certified, Az-900 Certified, multi Cloud enthusiast.
 
-Loving DevOps and learning in depth to become Cloud and DevOps consultant.
+Loving DevOps and learning in depth to become Cloud and DevOps Architect.
