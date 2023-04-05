@@ -1,5 +1,5 @@
 Hi there 👋
-I am Yogendra H Jagadeesh,
+I am Yogendra,
 
 Brief intro about me:
 
